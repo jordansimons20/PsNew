@@ -1,6 +1,4 @@
 /*psNew.c, by Jordan Simons. Reimplementation of the ps command.
-Note: I discussed with Asha how to parse the status file prior to completing that section.
-	Addtionally: We discussed how to get the arguments from cmdline. */
 
 #include <stdio.h>
 #include <stdlib.h>
